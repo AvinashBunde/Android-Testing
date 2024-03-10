@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-10T13:01:09 IST" name="Default suite" finished-at="2024-03-10T13:02:41 IST" duration-ms="91970">
+    <groups>
+    </groups>
+    <test started-at="2024-03-10T13:01:09 IST" name="Default test" finished-at="2024-03-10T13:02:41 IST" duration-ms="91970">
+      <class name="org.avinash.HybriedTC_05">
+        <test-method is-config="true" signature="GeneralTest()[pri:0, instance:org.avinash.HybriedTC_05@4135c3b]" started-at="2024-03-10T13:01:09 IST" name="GeneralTest" finished-at="2024-03-10T13:01:55 IST" duration-ms="46159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GeneralTest -->
+        <test-method signature="Browser()[pri:0, instance:org.avinash.HybriedTC_05@4135c3b]" started-at="2024-03-10T13:01:55 IST" name="Browser" finished-at="2024-03-10T13:02:38 IST" duration-ms="43038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.avinash.HybriedTC_05@4135c3b]" started-at="2024-03-10T13:02:38 IST" name="tearDown" finished-at="2024-03-10T13:02:41 IST" duration-ms="2677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.avinash.HybriedTC_05 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
