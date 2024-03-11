@@ -1,6 +1,6 @@
 package org.avinash;
 
-import java.net.MalformedURLException;
+import java.io.IOException;
 import java.time.Duration;
 import java.util.List;
 import java.util.Set;
@@ -27,11 +27,11 @@ import io.appium.java_client.android.nativekey.KeyEvent;
 public class HybriedTC_05 extends AppStore{
 
 	@Test
-	public void Browser() throws UnsupportedCommandException,MalformedURLException,InterruptedException {
+	public void Browser() throws UnsupportedCommandException,InterruptedException, IOException {
 		
 		FormPage obj = new FormPage(driver);
 		obj.setCountrySelection("Argentina");
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		obj.setNameField("Maddy");
 		Thread.sleep(2000);
 		obj.name();
