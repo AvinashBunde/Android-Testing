@@ -1,6 +1,6 @@
 # General-Store-App
 
-I perform mobile testing for an e-commerce shopping application on the Android platform using the Appium framework. Appium is a popular open-source test automation tool that allows you to write tests against mobile apps using various programming languages. In your case, you leverage Android Studio, Android Inspector, Android Server GUI, and Node.js to facilitate your testing efforts. Here's a detailed analysis of your testing approach:
+I perform mobile testing for an e-commerce shopping application on the Android platform using the Appium framework. Appium is a popular open-source test automation tool that allows you to write tests against mobile apps using various programming languages. In my case, I leverage Android Studio, Android Inspector, Android Server GUI, and Node.js to facilitate your testing efforts. Here's a detailed analysis of my testing approach:
 
 I utilize Android Studio, which is the official Integrated Development Environment (IDE) for Android app development. Within Android Studio, I create and manage Android Virtual Devices (AVDs) or emulators, which are software-based simulations of real Android devices. These emulators allow you to test your applications in a controlled and reproducible environment without the need for physical devices during the initial stages of testing.
 
